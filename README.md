@@ -7,4 +7,4 @@ pip install cryptography
 ```
 Run main.py. Enter a chat name. Use one chat name for one interlocutor, so each chat will be secured with different keys.
 For the first time the script will generate keys for you. Replace you public key with your interlocutor's public key and ask them to do the same. Rerun script.
-You can use run script twice for convenience (for encryption and decryption).
+You can run script twice for convenience (for encryption and decryption).
