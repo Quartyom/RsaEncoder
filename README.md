@@ -1,5 +1,5 @@
 # RsaEncoder
-This script helps you to encode and decode messages for transmission over unsecured communication channels. You can exchange public keys with your interlocutor, so the app will encode your messages and decode person's messages. Do not share private keys. Remember about [Man-in-the-middle attack](https://pages.github.com/)
+This script helps you to encode and decode messages for transmission over unsecured communication channels. You can exchange public keys with your interlocutor, so the app will encode your messages and decode person's messages. Do not share private keys. Remember about [Man-in-the-middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
 # How to use it
 Install cryptography package with 
 ```
